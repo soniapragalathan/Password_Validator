@@ -1,7 +1,8 @@
-**Overview**
+## PASSWORD VALIDATOR
+
 In this program, we will be taking a password as a combination of alphanumeric characters along with special characters, and checking whether the password is valid or not with the help of a few conditions.
 
-**Primary conditions for password validation**
+### Primary conditions for password validation
 
 Minimum 8 characters.
 The alphabet must be between [a-z]
